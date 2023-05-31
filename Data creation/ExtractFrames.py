@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Opens the Video file
-cap= cv2.VideoCapture('./Video/Left_MovingCam2_Room_Light.mp4')
+cap= cv2.VideoCapture('./Video/1.mp4')
 i=0
 
 # go to required directory 
